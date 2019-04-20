@@ -1,0 +1,1 @@
+The folder "BGI" need to be pasted at a location C:/TurboC3/BGI in order to run the game.
